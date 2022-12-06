@@ -1,1 +1,1 @@
-# Stock-Prediction-through-Python
+# Python
